@@ -194,8 +194,6 @@ module.exports = {
   [simple-single-spa-webpack-example](https://github.com/joeldenning/simple-single-spa-webpack-example/blob/master/src/root-application/root-application.js)
 ![导入建议](https://upload-images.jianshu.io/upload_images/15259843-bfda3ab563036ee4?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
     
-
-
 1. 导航区域在项目中充当调度者的角色，由它来决定在不同的条件下激活不同的子应用。     因此则仅仅是：导航路由 + 资源加载框架
 ![整体布局](https://upload-images.jianshu.io/upload_images/15259843-c2b1d651e0e4675a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
