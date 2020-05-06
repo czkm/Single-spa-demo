@@ -13,19 +13,7 @@
           <a href="/vue-element#"></a>
           <!-- <span class="nav-text">nav 1</span> -->
         </a-menu-item>
-        <!-- <a-menu theme="dark" mode="inline">
-        <a-sub-menu key="1">
-          <span slot="title">
-            <a-icon type="user" />
-            <a href="/vue-antd#">ant_app1</a>
-          </span>
-        </a-sub-menu>
-        <a-sub-menu key="2">
-          <span slot="title">
-            <a-icon type="user" />
-            <a href="/vue-element#">element_app2</a>
-          </span>
-        </a-sub-menu>-->
+       
       </a-menu>
     </a-layout-sider>
     <a-layout>

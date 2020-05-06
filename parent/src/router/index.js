@@ -7,8 +7,8 @@ const router = new Router({
   mode: 'history',
   routes: [
       { 
-          path: '/vue',
-          name: 'vue'
+          path: '/single-router',
+          name: 'single-router'
         }
     ]
 })
